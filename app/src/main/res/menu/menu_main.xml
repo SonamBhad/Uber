@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_tutorial"
+        android:enabled="true"
+        android:title="@null"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_sync"
+        android:enabled="true"
+        android:title="@null"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:id="@+id/menu_profile"
+        android:title="Profile"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:id="@+id/menu_history"
+        android:title="History"
+        app:showAsAction="ifRoom|withText"
+        />
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583753218839",
+    "firebase_url": "https://uber-a4ed3-default-rtdb.firebaseio.com/",
+    "project_id": "uber-a4ed3",
+    "storage_bucket": "uber-a4ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583753218839:android:8d0aa8520bf5ddf3569552",
+        "android_client_info": {
+          "package_name": "com.lattice.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583753218839-erqa0in43uttqhjjdvqjie2snoghqoa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAovxYbGlqnFe72vPvnAtMqFs_3LnuRtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583753218839-erqa0in43uttqhjjdvqjie2snoghqoa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
